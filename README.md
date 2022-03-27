@@ -28,5 +28,7 @@ references: https://www.python.org/downloads/
 
 
 ### Note
-The translation.json file contain the translation of animal names from scientific names to common names.
+- translation.json file contain the translation of animal names from scientific names to common names.  
+- animal151 contain the dataset of 151 type of animal.  
+- predictImg contain the few test images for model prediction.  
 
