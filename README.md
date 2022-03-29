@@ -1,4 +1,4 @@
-# EfficientNetB0 with custom dataset (animal 151) 
+# Classify type of animal by using EfficientNetB0 
 
 This jupyter notebook shown how to train EfficientNetB0 with custom dataset  
 Dataset used in this tutorial is obtained from Kaggle
